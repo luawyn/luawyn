@@ -20,6 +20,8 @@
 ![Git](https://img.shields.io/badge/-Git-3E2C00?style=for-the-badge&logo=git&logoColor=white&labelColor=3E2C00)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github&labelColor=black)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-01a6f0?style=for-the-badge&logo=windows&logoColor=white&labelColor=01a6f0)&nbsp;
+  
+  
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-dc3e15?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=dc3e15)&nbsp;
 ![Notion](https://img.shields.io/badge/-notion-black?style=for-the-badge&logo=notion&labelColor=black)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-ae4dff?style=for-the-badge&logo=figma&logoColor=white&labelColor=ae4dff)&nbsp;
