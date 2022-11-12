@@ -1,6 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9FDB&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD291,100:FF9FDB&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF9FDB&size=35&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Luana+Trevizani,;I'm+26+years+old,;I'm+studying+Analysis+and+Systems+Development.;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=FF9FDB&center=true&vCenter=true&width=1000&lines=Hello!+My+name+is+Luana+Trevizani%2C++I'm+studying+Analysis+and+Systems+Development.;+Be+Welcome!+%F0%9F%98%83%09)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=luawyn&show_icons=true&count_private=true&hide_border=true&title_color=FFD291&icon_color=FF9FDB&text_color=c9d1d9&bg_color=0d1117" alt="Luawyn github stats" /> 
@@ -45,4 +46,4 @@
 <a href="mailto:luanaftrevizani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-E60023?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FF9FDB&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD291,100:FF9FDB&height=120&section=footer"/>
