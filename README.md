@@ -13,8 +13,8 @@
 
 <div align="center">
   
-  ![Goals](https://user-images.githubusercontent.com/92114917/201483640-1be5c01e-7fc5-47b1-af31-7c70b2ae6eda.PNG)
-  
+![Goals](https://user-images.githubusercontent.com/92114917/201485074-e6e3406d-e31b-4565-9855-e3d65c33ff87.PNG)
+
 </div>
 
 
