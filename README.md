@@ -26,7 +26,8 @@
 
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=2965f1)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow&textColor=0D1117)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow)&nbsp;
+ ![React.js](https://img.shields.io/badge/-React.js-04d8f9?style=for-the-badge&logo=react&logoColor=white&labelColor=04d8f9)&nbsp;
 </div>
 
 
@@ -51,8 +52,8 @@
 </div>
 <div><h2>Studying in this moment: </h2>
 
-![React.js](https://img.shields.io/badge/-React.js-00d8ff?style=for-the-badge&logo=react&logoColor=white&labelColor=00d8ff)&nbsp;
 ![Node.JS](https://img.shields.io/badge/-Node.JS-3c873a?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3c873a)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007acc)&nbsp;
 ![Python](https://img.shields.io/badge/-python-646464?style=for-the-badge&logo=python&logoColor=white&labelColor=646464)&nbsp;
 </div>
 
