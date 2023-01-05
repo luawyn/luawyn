@@ -1,23 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD291,100:FF9FDB&height=120&section=header"/>
 
-<div align="center">
+$${\color{Orchid}Hello!\ My\ name\ is\ Luana\ Trevizani.\ I'm\ studying\ Analysis\ and\ Systems\ Development.}$$
   
-![Welcome](https://user-images.githubusercontent.com/92114917/201483740-c18dfbcd-ec53-4e0f-909f-eb1223d0693c.png)
-  
-</div>
+$${\color{Orchid}Be\ Welcome!}$$ 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats-eight-smoky-49.vercel.app/api?username=luawyn&show_icons=true&count_private=true&hide_border=true&title_color=FFD291&icon_color=FF9FDB&text_color=c9d1d9&bg_color=0d1117" alt="Luawyn github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats-eight-smoky-49.vercel.app/api/top-langs/?username=luawyn&layout=compact&hide_border=true&title_color=FFD291&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-<div align="center">
-  
-
-![Goals](https://user-images.githubusercontent.com/92114917/205751097-99e31e6f-e876-4f9f-8e85-b674fd10b340.PNG)
-
-</div>
-
+$${\color{Dandelion}Full\ Stack \ Developer \ in \ progress}$$ 
 
 <div style="display: inline_block"><br>
   <img align="right" alt="unicorn-pic" height="120" src="https://cdn-icons-png.flaticon.com/512/1049/1049974.png?width=676&height=676">
@@ -65,3 +56,4 @@
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=100:FFD291,0:FF9FDB&height=120&section=footer"/>
+  
