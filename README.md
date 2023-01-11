@@ -36,6 +36,7 @@ $${\color{Dandelion}Full\ Stack \ Developer \ in \ progress}$$
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-dc3e15?style=for-the-badge&logo=microsoft-office&logoColor=white&labelColor=dc3e15)&nbsp;
 ![Notion](https://img.shields.io/badge/-notion-black?style=for-the-badge&logo=notion&labelColor=black)&nbsp;
 ![Figma](https://img.shields.io/badge/-figma-00d47b?style=for-the-badge&logo=figma&logoColor=white&labelColor=00d47b)&nbsp;
+![Postman](https://img.shields.io/badge/-postman-ef5b25?style=for-the-badge&logo=postman&logoColor=white&labelColor=ef5b25)&nbsp;
 </div>
 
 <div style="display: inline_block"><br>
