@@ -46,12 +46,13 @@ $${\color{Dandelion}Full\ Stack \ Developer \ in \ progress}$$
 
 ![Node.JS](https://img.shields.io/badge/-Node.JS-3c873a?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3c873a)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007acc)&nbsp;
+![SQLite](https://img.shields.io/badge/-sqlite-0A4663?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0A4663)&nbsp;
 ![Python](https://img.shields.io/badge/-python-646464?style=for-the-badge&logo=python&logoColor=white&labelColor=646464)&nbsp;
 </div>
 
 <div align="center"><h1>Follow me: </h1>  
 <a href="https://www.instagram.com/luawyn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/luawyn" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/luawyn/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://www.reddit.com/user/Luawyn_" target="_blank"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"</a>
 <a href="mailto:luanaftrevizani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-E60023?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
