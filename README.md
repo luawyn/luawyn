@@ -1,14 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD291,100:FF9FDB&height=120&section=header"/>
 
-$${\color{Orchid}Hello!\ My\ name\ is\ Luana\ Trevizani.\ I'm\ studying\ Analysis\ and\ Systems\ Development.}$$
-  
-$${\color{Orchid}Be\ Welcome!}$$ 
+<div align="center">  
+<h3>Hello! :wave:</h3>
+<h4>My name is Luana Trevizani,<br>
+a Full Stack Developer in progress :mortar_board:</h4>
+</div>
+
 
 <div align="center">  
   <img width="41%" height="195px" src="https://github-readme-stats-eight-smoky-49.vercel.app/api/top-langs/?username=luawyn&layout=compact&hide_border=true&title_color=FFD291&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
-$${\color{Dandelion}Full\ Stack \ Developer \ in \ progress}$$ 
+
 
 <div style="display: inline_block"><br>
   <img align="right" alt="unicorn-pic" height="120" src="https://cdn-icons-png.flaticon.com/512/1049/1049974.png?width=676&height=676">
