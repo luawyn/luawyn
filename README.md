@@ -21,7 +21,10 @@ a Full Stack Developer in progress :mortar_board:</h4>
 ![CSS](https://img.shields.io/badge/-CSS-2965f1?style=for-the-badge&logo=CSS3&logoColor=white&labelColor=2965f1)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-f06529?style=for-the-badge&logo=html5&logoColor=white&labelColor=f06529)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=white&labelColor=yellow)&nbsp;
- ![React.js](https://img.shields.io/badge/-React.js-04d8f9?style=for-the-badge&logo=react&logoColor=white&labelColor=04d8f9)&nbsp;
+![React.js](https://img.shields.io/badge/-React.js-04d8f9?style=for-the-badge&logo=react&logoColor=white&labelColor=04d8f9)&nbsp;
+![Node.JS](https://img.shields.io/badge/-Node.JS-3c873a?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3c873a)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007acc)&nbsp;
+![SQLite](https://img.shields.io/badge/-sqlite-0A4663?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0A4663)&nbsp;
 </div>
 
 
@@ -47,9 +50,6 @@ a Full Stack Developer in progress :mortar_board:</h4>
 </div>
 <div><h2>Studying in this moment: </h2>
 
-![Node.JS](https://img.shields.io/badge/-Node.JS-3c873a?style=for-the-badge&logo=node.js&logoColor=white&labelColor=3c873a)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=for-the-badge&logo=typescript&logoColor=white&labelColor=007acc)&nbsp;
-![SQLite](https://img.shields.io/badge/-sqlite-0A4663?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=0A4663)&nbsp;
 ![Python](https://img.shields.io/badge/-python-646464?style=for-the-badge&logo=python&logoColor=white&labelColor=646464)&nbsp;
 </div>
 
