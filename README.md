@@ -50,13 +50,13 @@ a Full Stack Developer in progress :mortar_board:</h4>
 </div>
 <div><h2>Studying in this moment: </h2>
 
-![Python](https://img.shields.io/badge/-python-646464?style=for-the-badge&logo=python&logoColor=white&labelColor=646464)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-E64A19?style=for-the-badge&logo=jest&logoColor=white&labelColor=E64A19)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-bootstrap-AB47BC?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=AB47BC)&nbsp;
+![Sass](https://img.shields.io/badge/-sass-F465BD?style=for-the-badge&logo=sass&logoColor=white&labelColor=F465BD)&nbsp;
 </div>
 
-<div align="center"><h1>Follow me: </h1>  
-<a href="https://www.instagram.com/luawyn" target="_blank"><img src="https://img.shields.io/badge/-Instagram-833ab4?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<div align="center"><h1>Contacts: </h1>  
 <a href="https://www.linkedin.com/in/luawyn/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
-<a href="https://www.reddit.com/user/Luawyn_" target="_blank"><img src="https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"</a>
 <a href="mailto:luanaftrevizani@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-gmail-E60023?style=for-the-badge&logo=gmail&logoColor=white"</a>
 </div>
 
