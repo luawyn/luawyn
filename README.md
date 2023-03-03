@@ -50,7 +50,7 @@ a Full Stack Developer in progress :mortar_board:</h4>
 </div>
 <div><h2>Studying in this moment: </h2>
 
-![Jest](https://img.shields.io/badge/-jest-E64A19?style=for-the-badge&logo=jest&logoColor=white&labelColor=E64A19)&nbsp;
+![Jest](https://img.shields.io/badge/-jest-880E4F?style=for-the-badge&logo=jest&logoColor=white&labelColor=880E4F)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-bootstrap-AB47BC?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=AB47BC)&nbsp;
 ![Sass](https://img.shields.io/badge/-sass-F465BD?style=for-the-badge&logo=sass&logoColor=white&labelColor=F465BD)&nbsp;
 </div>
